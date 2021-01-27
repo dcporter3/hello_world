@@ -1,13 +1,13 @@
-<!doctype hmtl>
-<html lang="en">
+<!doctype html>
+<hmtl lang="en">
     <head>
-    <title> Lab 1 Demo</title>
-    <meta charset="utf-8">
+        <title>Lab 1 Demo</title>
+        <meta charset="utf-8">
     </head>
-
+    
     <body>
-    <h1> My First Web Page</h1>
+    <h1>My First Web Page</h1>
     <p>Hello World</p>
     </body>
-
-</html>
+    
+    </html>
