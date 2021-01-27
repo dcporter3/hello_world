@@ -1,6 +1,3 @@
-
-
-
 <!doctype hmtl>
 <html lang="en">
     <head>
@@ -10,7 +7,7 @@
 
     <body>
     <h1> My First Web Page</h1>
-    <p>Hello Wotld</p>
+    <p>Hello World</p>
     </body>
 
 </html>
